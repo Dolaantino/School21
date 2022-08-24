@@ -1,0 +1,33 @@
+A Quick Summary Of the History of the Vim Editor.
+A long time ago I got myself an Amiga computer. Since I was used to editing with Vi, I looked around for a program like Vi for the Amiga. I did find a few so-called 'clones', but none of them was good enough; so I took the best one, and started improving it. At first the main goal was to be able to do all that Vi could do. Gradually I added some additional features, like multi-level undo.
+When it was working reasonably well, I released a version of Vim (then called "Vi IMitation") on a public domain disk set for the Amiga, made by Fred Fish. Then others started sending me patches. A few people took the effort to port Vim to other platforms, like MS-DOS and Unix. I added more features and made it work better. By that time it was justified to rename it to "Vi IMproved". Over time the code has been redesigned and extended so much that almost nothing of the original 'clone' remains.
+When I started working on Vim it was just for my own use. After some time I got the impression it was useful for others, and sent it out into the world. Since then I'm working more and more on making the program work well for a large audience. It's fun to create something useful. Also, there is a nice group of co-authors and power users, which is very inspiring.
+Here is an overview of Vim's history:
+-------------------------------------------------------------------------
+  1991 Nov 2  - Vim 1.14: First release (on Fred Fish disk #591).
+  1992        - Vim 1.22: Port to Unix.  Vim now competes with Vi.
+  1994 Aug 12 - Vim 3.0:  Support for multiple buffers and windows.
+  1996 May 29 - Vim 4.0:  Graphical User Interface (largely by Robert Webb).
+  1998 Feb 19 - Vim 5.0:  Syntax coloring/highlighting.
+  1998 Apr 6  - Vim 5.1:  Bug fixes and other changes.  
+  1998 Apr 27 - Vim 5.2:  Support for long lines, built-in file browser, dialogs, popup menus, select mode, session files, user defined functions, commands, tcl interface and other changes.
+  1998 Aug 31 - Vim 5.3:  Bug fixes and other changes.
+  1999 Jul 25 - Vim 5.4:  Simple file encryption, various improvements
+  1999 Sep 19 - Vim 5.5:  Bug fixes, various improvements
+  2000 Jan 16 - Vim 5.6:  New syntax files, bug fixes and other changes
+  2000 Jun 24 - Vim 5.7:  New syntax files, bug fixes and other changes
+  2001 May 31 - Vim 5.8:  New syntax files, bug fixes and other changes
+  2001 Sep 26 - Vim 6.0:  folding, plugins, vertical split
+  2002 Mar 24 - Vim 6.1:  Error correction
+  2003 Jun 1  - Vim 6.2:  GTK2, Arabic support, command: try, minor features,bug fixes
+  2004 Jun 7  - Vim 6.3:  Bug fixes, translation updates, tag improvements
+  2005 Oct 15 - Vim 6.4:  Bug fixes, Perl, Python and Ruby support updates
+  2006 May 7  - Vim 7.0:  Spell checking, auto-completion, tabs, current line and column highlighting, undo branches, and other changes
+  2007 May 12 - Vim 7.1:  Bug fixes, new executables and syntax files, and other changes.  
+  2008 Aug 9  - Vim 7.2:  Bug fixes, new executables and syntax files, security improvements and other changes.
+  2010 Aug 15 - Vim 7.3:  Bug fixes, new executables and syntax files, security improvements, perpetual undo, end of support for Mac OS 9 and GTK1, Lua support, and other changes.
+  2013 Aug 10 - Vim 7.4:  New, faster regular expression engine and other changes.
+  2016 Sep 12 - Vim 8.0:  Asynchronous I/O, lambda expressions, closures, support for GTK+ 3 and Microsoft DirectX, and other changes.
+  2018 May 18 - Vim 8.1:  Support for opening a terminal inside a Vim window.
+  2019 Dec 14 - Vim 8.2:  Popup windows
+  2022 Jun 28 - Vim 9.0:  Vim9 script
